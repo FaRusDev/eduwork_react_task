@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <nav className='navbar'>
-        tes
+        ini dari main
     </nav>
   )
 }
