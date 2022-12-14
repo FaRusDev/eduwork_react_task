@@ -1,5 +1,3 @@
-import Button from './components/Button/Button';
-
 import Container from './components/Container/Container';
 import Navbar from './components/Navbar/Navbar';
 import Header from './components/Header/Header';
