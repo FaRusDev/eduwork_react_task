@@ -20,7 +20,10 @@ const BannerLeft = ({image,tag,htext,ptext}) => {
         </div>
         
       </div>
+
+      
     </Container>
+
   )
 }
 
