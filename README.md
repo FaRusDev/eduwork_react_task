@@ -1,1 +1,1 @@
-Ini tugas form di react
+Ini tugas lifecycle di react
